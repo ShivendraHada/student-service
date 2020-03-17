@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Shivendra",
+    "education": "BE(CS)",
+    "gender": "Male",
+    "location": "Bhopal"
+  },
+  {
+    "name": "Male",
+    "education": "Umar",
+    "gender": "Indore",
+    "location": "BE(ME)"
+  },
+  {
+    "name": "Male",
+    "education": "Ram",
+    "gender": "Bangalore",
+    "location": "MCA"
+  },
+  {
+    "name": "Male",
+    "education": "Shyam",
+    "gender": "Pune",
+    "location": "BE(CS)"
+  },
+  {
+    "name": "Female",
+    "education": "Surbhi",
+    "gender": "NewDelhi",
+    "location": "BCA"
+  },
+  {
+    "id": 6,
+    "name": "Female",
+    "education": "Kanchan",
+    "gender": "Bangalore",
+    "location": "BSc"
+  }
+]
